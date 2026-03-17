@@ -11,7 +11,7 @@ Ensure you have the following installed:
 ---
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/BOS.git
+git clone https://github.com/El-Fati/BOS.git
 
 cd BOS
 
